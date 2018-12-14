@@ -4,6 +4,15 @@
 
 ## ⌥
 
+@ul[spaced text-white]
+- Option + Click
+- Command + Shift + Tab
+- ... + Q
+
+---
+
+## ⌥
+
 ---
 @title[Customize Slide Layout]
 
