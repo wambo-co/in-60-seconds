@@ -4,8 +4,6 @@
 
 ## ⌥
 
-![](assets/img/presentation.png)
-
 ---
 @title[Customize Slide Layout]
 
